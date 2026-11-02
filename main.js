@@ -1,7 +1,6 @@
 /* ============ VENA TECH — main.js ============ */
 
-// TODO: replace with the real business WhatsApp number (international format, no +)
-const WHATSAPP_NUMBER = '972500000000';
+const WHATSAPP_NUMBER = '972543844204';
 
 const prefersReduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 const isMobile = window.matchMedia('(max-width: 760px)').matches;
